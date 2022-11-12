@@ -182,6 +182,7 @@ functions = [
     "PK11_GetMechanism",
     "PK11_HPKE_Serialize",
     "PK11_ImportDataKey",
+    "PK11_ImportSymKey",
     "PK11_PubDeriveWithKDF",
     "PK11_ReadRawAttribute",
     "PK11_ReferenceSymKey",
